@@ -28,4 +28,4 @@ A clean, functional, and responsive two-way temperature converter built with van
 
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/bdiniz87/temperature-converter.git](https://github.com/bdiniz87/temperature-converter.git)
+   git clone https://github.com/bdiniz87/temperature-converter.git
